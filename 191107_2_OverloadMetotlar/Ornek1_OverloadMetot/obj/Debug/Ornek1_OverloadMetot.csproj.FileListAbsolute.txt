@@ -1,0 +1,7 @@
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\Ornek1_OverloadMetot\bin\Debug\Ornek1_OverloadMetot.exe.config
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\Ornek1_OverloadMetot\bin\Debug\Ornek1_OverloadMetot.exe
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\Ornek1_OverloadMetot\bin\Debug\Ornek1_OverloadMetot.pdb
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\Ornek1_OverloadMetot\obj\Debug\Ornek1_OverloadMetot.csprojAssemblyReference.cache
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\Ornek1_OverloadMetot\obj\Debug\Ornek1_OverloadMetot.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\Ornek1_OverloadMetot\obj\Debug\Ornek1_OverloadMetot.exe
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\Ornek1_OverloadMetot\obj\Debug\Ornek1_OverloadMetot.pdb

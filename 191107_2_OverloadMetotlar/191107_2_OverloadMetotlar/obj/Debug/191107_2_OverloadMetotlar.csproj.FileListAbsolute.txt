@@ -1,0 +1,7 @@
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\191107_2_OverloadMetotlar\bin\Debug\191107_2_OverloadMetotlar.exe.config
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\191107_2_OverloadMetotlar\bin\Debug\191107_2_OverloadMetotlar.exe
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\191107_2_OverloadMetotlar\bin\Debug\191107_2_OverloadMetotlar.pdb
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\191107_2_OverloadMetotlar\obj\Debug\191107_2_OverloadMetotlar.csprojAssemblyReference.cache
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\191107_2_OverloadMetotlar\obj\Debug\191107_2_OverloadMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\191107_2_OverloadMetotlar\obj\Debug\191107_2_OverloadMetotlar.exe
+C:\Users\Oyun-4\console\191107_2_OverloadMetotlar\191107_2_OverloadMetotlar\obj\Debug\191107_2_OverloadMetotlar.pdb
